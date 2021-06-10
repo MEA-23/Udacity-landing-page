@@ -19,7 +19,7 @@ it add all li to a document fragment then add it to the nav tag.
 ## show the active section
 it changes the style of the current section and the linked part at the navigation bar.
 
-## resources:
+## resources
 https://developer.mozilla.org/en-US/
 https://stackoverflow.com/
 https://www.w3schools.com/
