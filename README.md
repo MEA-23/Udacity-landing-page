@@ -1,4 +1,8 @@
-dynamic landing page
+# dynamic landing page
+
+## running on
+https://udacity-landing-page23.netlify.app
+
 creat dynamic navigation bar
 
 what does it do:
