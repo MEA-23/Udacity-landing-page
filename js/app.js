@@ -33,6 +33,12 @@
  *
 
 */
+ let onerror = errorHandler();
+
+ function errorHandler(msg,url,l,coma,error){
+   return true;
+ }
+
 
 let allSections = document.querySelectorAll("section");
 
