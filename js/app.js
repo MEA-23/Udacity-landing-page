@@ -33,9 +33,9 @@
  *
 
 */
- let onerror = errorHandler();
+ window.onerror = errorHandler();
 
- function errorHandler(msg,url,l,coma,error){
+ function errorHandler(msg,url,l,colno,error){
    return true;
  }
 
